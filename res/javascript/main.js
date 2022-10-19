@@ -4,7 +4,7 @@ const clickUpgrade = document.getElementById("clickUpgrade")
 const autoclickerUpgrade = document.getElementById("autoclickerUpgrade")
 
 let cookies = 0;
-let clickIncrease = 2;
+let clickIncrease = 1;
 let clickIncreasePrice= 100;
 
 let autoclickerIncrease = 0;
